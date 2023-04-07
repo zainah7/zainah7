@@ -30,6 +30,5 @@ I quickly learn new technologies and I want to become a professional in my field
   
   <a href="(https://github.com/zainah7)">
     <img height="180em" src= "https://github.com/zainah7/zainah7/edit/main/README.md"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androfficial&layout=compact&theme=aura_dark"/>
   </a>
 </p>
