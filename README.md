@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://github.com/zainah7)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-da4763?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_zozo7_/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:zainaabd7@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/"< a href="zainaabd7@gmail.com </a>"
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" align="left">Hey there
 
