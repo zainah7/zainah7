@@ -18,12 +18,12 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-483D8B?style=flat-square&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-483D8B?style=flat-square&logo=css3)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-483D8B?style=flat-square&logo=tailwind-css)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-483D8B?style=flat-square&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-483D8B?style=flat-square&logo=typescript)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-483D8B?style=flat-square&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/React-483D8B?style=flat-square&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-483D8B?style=flat-square&logo=react)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-483D8B?style=flat-square&logo=tailwind-css)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-483D8B?style=flat-square&logo=next.js)&nbsp;
 ![Git](https://img.shields.io/badge/Git-483D8B?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-483D8B?style=flat-square&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-483D8B?style=flat-square&logo=figma)&nbsp;
