@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there, I'm Zainah!
 </h1>
 
-<h3 align="center">Frontend & React Native Developer from Nigeria 🇳🇬</h3>
+<h3 align="center">Frontend & React Native Developer</h3>
 
 <p align="center">
 🌟 Passionate about building responsive, user-friendly web and mobile interfaces. Eager to grow, contribute to exciting projects, and stay up-to-date with modern tech.
