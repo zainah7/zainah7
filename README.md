@@ -127,7 +127,7 @@
 
 ### 🌍 Languages
 
-- **Arabic** (Native)
+- **Arabic** (Fluent)
 - **English** (Fluent)
 
 ---
